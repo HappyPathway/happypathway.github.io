@@ -18,8 +18,6 @@ email: info@happypathway.comn
 description: >- # this means to ignore newlines until "baseurl:"
   We are a DevOps consulting company. We work with many different types of customers, 
   using many different technologies, all in an effort to make their company work smarter and faster.
-  This is our blog. Here we capture and share lessons, missteps, accomplishments, and victories that we've taken
-  along the way. Mistakes do happen, we feel it's best to learn from them and move on. Hope you enjoy!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://happypathway.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  happypathway
